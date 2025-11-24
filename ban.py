@@ -18,6 +18,7 @@ tool_password = "tunzyban"
 
 # ===== Your personal Gmail credentials =====
 gmail_accounts = [
+    {"email": "managerhimself032@gmail.com", "password": "inagtgypnpyweleu"},
     {"email": "arsheeqarsheeqq@gmail.com", "password": "pkkqfactxwkpvzgc"},
     {"email": "unknownhimself6@gmail.com", "password": "uupfjdufriwrdgop"},
     {"email": "cryptolord25ss@gmail.com", "password": "lczszqjxovvbuxco"},
