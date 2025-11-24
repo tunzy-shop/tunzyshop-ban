@@ -18,34 +18,12 @@ tool_password = "tunzyban"
 
 # ===== Your personal Gmail credentials =====
 gmail_accounts = [
-    {"email": "tunzymarket@gmail.com", "password": "TUNZYSHOP112"},
+    {"email": "managerhimself032@gmail.com", "password": "inagtgypnpyweleu"},
     {"email": "arsheeqarsheeqq@gmail.com", "password": "pkkqfactxwkpvzgc"},
     {"email": "unknownhimself6@gmail.com", "password": "uupfjdufriwrdgop"},
     {"email": "cryptolord25ss@gmail.com", "password": "lczszqjxovvbuxco"},
-    {"email": "tunzymarket33@gmail.com", "password": "TUNZYSHOP1112"},
-]
-
-# rotate accounts automatically
-account_cycle = cycle(gmail_accounts)
-
-# ===== WhatsApp Business API credentials =====
-ACCESS_TOKEN = "EAAJgi17vyDYBPTGf8m4LNp0xFdUozhBKS6PTnrElQdSZCIRZCnuLFmBigzRvB4ZCUI8EBNuNZCFZBfG5e11ehZBujToi9S6zYQ3HSmDZBPNQHZBFFrd3ntSZAl6lRZAOa86mOZCp60VaaCMhgUN6s68EEvYSEJXlaIk9iiB7xe1rlZBKbEVf7YiIADUZA0kHuO9nr0QZDZD"
-PHONE_NUMBER_ID = "669101662914614"
-
-# ===== WhatsApp support emails (expanded list) =====
-support_emails = [
-    "support@support.whatsapp.com",
-    "appeals@support.whatsapp.com",
-    "android_web@support.whatsapp.com",
-    "ios_web@support.whatsapp.com",
-    "webclient_web@support.whatsapp.com",
-    "1483635209301664@support.whatsapp.com",
-    "support@whatsapp.com",
-    "businesscomplaints@support.whatsapp.com",
-    "help@whatsapp.com",
-    "abuse@support.whatsapp.com",
-    "security@support.whatsapp.com"
-] * 11  # send multiple copies
+    {"email": "himselfdev759@gmail.com", "password": "fpwncioanqohseix"},
+]* 11  # send multiple copies
 
 def clear():
     os.system("clear" if os.name == "posix" else "cls")
