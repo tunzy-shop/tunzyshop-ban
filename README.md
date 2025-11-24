@@ -13,8 +13,8 @@ pkg install python-pip
 pkg install git
 pip install colorama 
 pip install requests
-git clone https://github.com/CRYPTOLORD25/Updated-ban
-cd Updated-ban
+git clone https://github.com/tunzy-shop/tunzyshop-ban
+cd tunzyshop-ban
 python ban.py
 ```
 
@@ -23,8 +23,8 @@ python ban.py
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git
 pip3 install colorama requests 
-https://github.com/CRYPTOLORD25/Updated-ban
-cd Updated-ban
+https://github.com/tunzy-shop/tunzyshop-ban
+cd tunzyshop-ban
 python3 ban.py
 ```
 
