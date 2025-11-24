@@ -24,7 +24,8 @@ gmail_accounts = [
     {"email": "cryptolord25ss@gmail.com", "password": "lczszqjxovvbuxco"},
     {"email": "himselfdev759@gmail.com", "password": "fpwncioanqohseix"},
 ]
-* 11  # send multiple copies
+
+# send multiple copies
 
 def clear():
     os.system("clear" if os.name == "posix" else "cls")
